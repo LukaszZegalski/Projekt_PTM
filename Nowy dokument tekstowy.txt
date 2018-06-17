@@ -1,0 +1,4 @@
+Aplikacja nr 1-2 - sterowanie telefonem za pomoc¹ bluetooth przy czym aplikacja nr.2 wysy³a mniej znaków podczas komunikacji 
+Aplikacja nr 3 - sterowanie za pomoc¹ przycisków, szybkie naprzemienne wciskanie 
+Aplikacje stworzone z wyko¿ystaniem: http://ai2.appinventor.mit.edu
+ 
